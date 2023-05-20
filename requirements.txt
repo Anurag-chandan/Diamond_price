@@ -2,6 +2,16 @@ pandas
 numpy
 flask
 seaborn
+scikit-learn
+catboost
+xgboost
+dill
+flask
+flask_cors
+lime
+#-e .
+#We will use "-e ." when we are going to run requirementa with setup.py
+
 
 
  
